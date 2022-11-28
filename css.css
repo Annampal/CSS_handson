@@ -1,13 +1,13 @@
 h1{
     color: brown;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif  ;
 }
 li{
-    color:crimson;
+    color: crimson;
     line-height: 50px;
 }
 h2{
-    color:darkgoldenrod;
+    color: darkgoldenrod;
     font-style: italic;
 }
 p{
@@ -17,15 +17,14 @@ p{
     letter-spacing: 4px;
 }
 .text{
-   font-size: 17px;
-   font-weight: bold;
+    font-size: 17px;
+    font-weight: bold;
 }
-.section2{
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+section2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .gold{
     background-color: gold;
-    
 }
 .del{
     text-decoration: line-through;
